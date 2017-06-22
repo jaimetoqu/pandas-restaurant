@@ -1,2 +1,2 @@
 # Pandas Restaurant web app
-# written in jquery and bootstrap
+  written in jquery and bootstrap
